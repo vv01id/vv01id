@@ -24,7 +24,7 @@ With a strong foundation in software engineering, I specialize in taking loose c
 ### Titles System
 ### Admin Panels 
 ### Combat System
-### AND MORE SYSTEMS AS A SCRIPTER 
+## AND MORE SYSTEMS AS A SCRIPTER 
 
 ### HAIR 
 ### Bundles ( Patrick , SacBoy , CustomCharacters ... )
@@ -37,11 +37,11 @@ With a strong foundation in software engineering, I specialize in taking loose c
 ### BARBERSHOP 
 ### HOUSES 
 ### CLUB ( WAS DONE WITH A TEAM ) 
-### AND MORE BUILDING AS A BUILDER
+## AND MORE BUILDING AS A BUILDER
 
 ---
 
 ## 🤝 Connect with Me
-* **Discord:** `1416225990270521406`
+* **Discord:** `<@1416225990270521406>`
 * **Roblox Profile:** `https://www.roblox.com/users/7324625224/profile`
 * **GitHub:** [@vv01id](https://github.com/vv01id)
