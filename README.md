@@ -23,6 +23,8 @@ With a strong foundation in software engineering, I specialize in taking loose c
 ### GUN System 
 ### Titles System
 ### Admin Panels 
+### ANTI CHEAT SYSTEM
+### PATHFINDER SYSTEM
 ### Combat System
 ## AND MORE SYSTEMS AS A SCRIPTER 
 
