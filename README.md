@@ -26,20 +26,22 @@ With a strong foundation in software engineering, I specialize in taking loose c
 ### ANTI CHEAT SYSTEM
 ### PATHFINDER SYSTEM
 ### Combat System
-## AND MORE SYSTEMS AS A SCRIPTER 
+### RAGDOOLL SYSTEM
+
+
 
 ### HAIR 
 ### Bundles ( Patrick , SacBoy , CustomCharacters ... )
 ### RocketLeagueCars ( Octane , Dominus , Fennec ... )
 ### Assets ( Guns , Couch ... )
-## AND MORE MODELS AS A MODELLER
+### 
 
 ### AIRPORT ( WAS DONE WITH A TEAM ) 
 ### POLICE OFFICE 
 ### BARBERSHOP 
 ### HOUSES 
 ### CLUB ( WAS DONE WITH A TEAM ) 
-## AND MORE BUILDING AS A BUILDER
+### 
 
 ---
 
