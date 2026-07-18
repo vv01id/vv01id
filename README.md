@@ -29,20 +29,26 @@ With a strong foundation in software engineering, I specialize in taking loose c
 ### RAGDOOLL SYSTEM
 ### T00LS
 ### FLY SYSTEM
+### DUELS SYSTEM
+### SPECTATE SYSTEM
+### DailySpin SYSTEM
 
+---
 
 ### HAIR 
 ### Bundles ( Patrick , SacBoy , CustomCharacters ... )
 ### RocketLeagueCars ( Octane , Dominus , Fennec ... )
-### Assets ( Guns , Couch ... )
+### Assets ( Guns , Couch , Gloves ,... )
 
+---
 
-### AIRPORT ( WAS DONE WITH A TEAM ) 
+### AIRPORT 
 ### POLICE OFFICE 
 ### BARBERSHOP 
 ### HOUSES 
 ### CLUB ( WAS DONE WITH A TEAM ) 
 ### MAINMAP FOR A HANGOUT MAP
+### PVP MAPS
 
 ---
 
