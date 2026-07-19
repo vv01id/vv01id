@@ -32,6 +32,7 @@ With a strong foundation in software engineering, I specialize in taking loose c
 ### DUELS SYSTEM
 ### SPECTATE SYSTEM
 ### DailySpin SYSTEM
+### FLING SYSTEM
 
 ---
 
@@ -49,6 +50,7 @@ With a strong foundation in software engineering, I specialize in taking loose c
 ### CLUB ( WAS DONE WITH A TEAM ) 
 ### MAINMAP FOR A HANGOUT MAP
 ### PVP MAPS
+### 
 
 ---
 
