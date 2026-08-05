@@ -6,9 +6,7 @@
 I am a 20-year-old AI Engineering student (CP2G3) and versatile Roblox Developer with **2+ years of professional experience**. My workflow bridges the gap between clean, scalable code and optimized 3D art. I utilize professional external tools like **VS Code and Rojo** for modern source control, alongside **Blender** for highly optimized, game-ready models. 
 
 With a strong foundation in software engineering, I specialize in taking loose concepts and turning them into scalable game mechanics. I am currently seeking ambitious projects that test the upper limits of my programming and asset design capabilities.
-https://www.roblox.com/share?code=fb74b14335d11443a85e8e45f0430824&type=ExperienceDetails&stamp=1785834491535
----
-
+https://www.roblox.com/games/86661601136358/FLING-IT
 ## 🛠️ Tech Stack & Workflow
 
 * **Scripting & Architecture:** Luau, VS Code, Rojo, Firebase, Python, VibeCoding
