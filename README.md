@@ -58,6 +58,6 @@ With a strong foundation in software engineering, I specialize in taking loose c
 ---
 
 ## 🤝 Connect with Me
-* **Discord:** `<@1416225990270521406>`
+* **Discord:** `<@1416225990270521406>` `<@705946040674549771>`
 * **Roblox Profile:** `https://www.roblox.com/users/7324625224/profile`
 * **GitHub:** [@vv01id](https://github.com/vv01id)
