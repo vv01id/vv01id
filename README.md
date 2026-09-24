@@ -7,6 +7,10 @@ I am a 20-year-old AI Engineering student (CP2G3) and versatile Roblox Developer
 
 With a strong foundation in software engineering, I specialize in taking loose concepts and turning them into scalable game mechanics. I am currently seeking ambitious projects that test the upper limits of my programming and asset design capabilities.
 https://www.roblox.com/games/86661601136358/FLING-IT
+https://www.roblox.com/games/108901041072374/Night-Club-Tycoon
+https://www.roblox.com/games/104805085314913/Hina-Fit-Collection
+https://www.roblox.com/games/140711000909492/Hunt-the-Animals
+
 ## 🛠️ Tech Stack & Workflow
 
 * **Scripting & Architecture:** Luau, VS Code, Rojo, Firebase, Python, VibeCoding
